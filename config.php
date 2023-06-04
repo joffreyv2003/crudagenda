@@ -5,9 +5,11 @@ error_reporting(E_ALL);
 
 // Database logingegevens
 $db_hostname = 'localhost';
-$db_username = '87283';
-$db_password = 'YVtVFk7P!';
-$db_database = '87283_database';
+$db_username = '';
+$db_password = '';
+$db_database = '';
+
+// Voer jouw database gegevens hierboven in.
 
 // Database connectie
 $mysqli = mysqli_connect($db_hostname, $db_username, $db_password, $db_database);
