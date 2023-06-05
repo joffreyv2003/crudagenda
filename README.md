@@ -17,7 +17,7 @@ Dit is de allereerste crud applicatie die ik voor een schoolopdracht had gemaakt
 3. Download het project door op ```Download ZIP``` te klikken.
 4. Plaats het gedownloadde project ergens op je **computer**. De desktop is hier het beste voor. 
 
-```🚨``` Let op! Vanaf stap 5 ga ik gebruik maken van het programma XAMPP. Dit is een programma waar je
+**```🚨``` LET OP!** Vanaf stap 5 ga ik gebruik maken van het programma XAMPP. Dit is een programma waar je
 lokaal een server kunt hosten voor bijvoorbeeld PHP. PHP kan namelijk niet normaal gebruikt worden op een website. XAMPP
 zal dus benodigd zijn om deze website te testen. Een tutorial hoe je XAMPP kunt installeren kun je [hier](https://www.youtube.com/watch?v=VCHXCusltqI) bekijken.
 
