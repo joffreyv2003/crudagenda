@@ -27,7 +27,17 @@ Mocht dit allemaal te veel werk zijn is de demo onderaan deze README te vinden.
 6. Ga vervolgens naar de volgende route: xampp/htdocs. Je zult dus eerst moeten zoeken naar de **xampp** folder locatie op je computer.
 7. Plaats in de htdocs folder het gedownloadde project. De volledige map kan erin geplaatst worden. 
 8. Deze website gebruikt ook een database. We zullen dus nog even een database aan moeten maken. Ga naar ```localhost/phpmyadmin/```.
-9. Wordt vervolgd..
+9. Klik links in het scherm op nieuw om een nieuwe database aan te maken. Geef de database een naam die je niet snel vergeet. Voor dit voorbeeld gebruik ik ```crud_db```.
+10. Maak binnen deze nieuwe database een tabel aan. Geef deze de naam **crud_agenda**. <br>**DIT IS ERG BELANGRIJK, ANDERS GAAT DE APPLICATIE NIET WERKEN.**
+11. Zorg dat de volgende velden en values aangemaakt worden in deze tabel:
+
+![preview](https://i.imgur.com/YFHDoVt.png)
+
+12. Sla de tabel op. Maak nu nóg een tabel aan met de naam **users**. Zet wederom de volgende velden en values in deze tabel:
+
+![preview](https://i.imgur.com/8bupoAg.png)
+
+De applicatie zal nu werken naar behoren. Als er enige problemen optreden hoor ik dit graag via contact@joffreyverschoor.nl.
 
 
 ## 💻 Demo
